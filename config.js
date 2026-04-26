@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '凛空の小屋 服务器状态监控',
+  SiteName: '叶彩の小屋 服务器状态监控',
 
   // 站点链接
   SiteUrl: '/',
@@ -10,7 +10,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'ur1004328-7deb9fc4df464fb1d9674772',
+    'ur3169046-1ce761233e3747f27cd44d6b',
   ],
 
   // 是否显示监测站点的链接
@@ -24,12 +24,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '晓空blog',
-      url: 'https://blog.moeworld.tech/'
+      text: '叶彩blog',
+      url: 'https://www.spacezero.top/'
     },
     {
       text: '关于',
-      url: 'https://about.moeworld.top/'
+      url: 'https://about.spacezero.top/'
     }
   ]
 };
