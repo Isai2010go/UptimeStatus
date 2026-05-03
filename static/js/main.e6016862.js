@@ -8355,8 +8355,8 @@ function(e, t, n) {
             to: "https://uptimerobot.com/",
             text: "UptimeRobot"
         }), " \u63a5\u53e3\u5236\u4f5c\uff0c\u68c0\u6d4b\u9891\u7387 5 \u5206\u949f"), o.a.createElement("p", null, "\xa9 2012-2025 ", o.a.createElement(l, {
-            to: "https://blog.moeworld.tech/",
-            text: "空梦世界 MoeWorld"
+            to: "https://www.spacezero.top/",
+            text: "零号空间 SpaceZero"
         }))))
     };
     function c(e, t) { (null == t || t > e.length) && (t = e.length);
